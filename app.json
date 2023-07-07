@@ -8,7 +8,7 @@
     "scrapper",
     "3"
   ],
-  "repository": "https://github.com/Zed-Thon/Scrap-Zed",
+  "repository": "https://github.com/Tepthonee/Scrap-Tep",
   "env": {
     "WEBHOOK": {
       "description": "لا تغيرهــا",
@@ -19,7 +19,7 @@
     },
     "URL": {
       "description": "لا تغيرهــا",
-      "value": "https://zelzal3.herokuapp.com/"
+      "value": "https://scraptep11.herokuapp.com/"
     }
   },
   "formation": {
